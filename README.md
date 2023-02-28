@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+### View website [here](https://ducknbytes.github.io/home)
 <!--
 **DucknBytes/DucknBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
